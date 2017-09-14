@@ -1,0 +1,2 @@
+This is my first project on HTML, CSS, Bootstrap and jQuery. It is a simple project demonstrating the basic functionalities of all the above stated technologies.
+As I admire Oprah Winfrey, so this project is a tribute to her.
